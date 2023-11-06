@@ -1,0 +1,11 @@
+1e2547e6977a5225b8197cffa256e3a4 *DESCRIPTION
+735a330141b265ab49ce0cc6903f8f67 *NAMESPACE
+afaccca7e276b98718b751cd187f919d *R/rda.R
+7e70e9a285c9bfd655317d2351379104 *R/rda.tune.R
+f069158018c1ae10e076cf32f6d7f831 *R/reg.mle.lda.R
+ef43b69a4a48f32136999ede5fa449fa *R/regmlelda.cv.R
+45a72e589aff14ee2d6d1d9bc4078914 *man/rda.Rd
+cb67a40e7b2fa4e786f5fb469f62b36c *man/rda.tune.Rd
+b0dd96af8aca921bab054e3578e7bc68 *man/reg.mle.lda.Rd
+099c7396a2822a71baa2cba9e991b9ea *man/regda-package.Rd
+7536b19a13aa926f90bfb52178a32f4d *man/regmlelda.cv.Rd
